@@ -1,4 +1,4 @@
-package section4;
+package exercicios.sequenciais;
 import java.util.Scanner;
 public class exc3 {
     public static void main (String[] args){

@@ -1,7 +1,7 @@
-package section4;
+package exercicios.sequenciais;
 import java.util.Locale;
 
-public class exc24 {
+public class exc0 {
     public static void main (String [] args){
 
         String product1 = "Computer";
